@@ -1,0 +1,117 @@
+.ai-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .ai-box {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .ai-title {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 16px;
+    color: #333;
+  }
+  
+  .ai-error {
+    background-color: #fdd;
+    border: 1px solid #f99;
+    color: #900;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+  }
+  
+  .ai-label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 6px;
+    color: #222;
+  }
+  
+  .ai-textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    font-size: 14px;
+    resize: vertical;
+    background-color: #fff;
+  }
+  
+  .ai-submit {
+    background-color: #007acc;
+    color: #fff;
+    padding: 10px 16px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .ai-response-box {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 14px;
+    margin-top: 20px;
+  }
+  
+  .ai-recent {
+    margin-top: 24px;
+  }
+  
+  .ai-recent h3 {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #444;
+  }
+  
+  .ai-query-item {
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    padding: 8px;
+    margin-bottom: 6px;
+    border: 1px solid #ddd;
+  }
+  
+  .ai-query-item p {
+    margin: 0;
+    color: #005f99;
+    cursor: pointer;
+  }
+  
+  .ai-query-item span {
+    display: block;
+    font-size: 12px;
+    color: #777;
+    margin-top: 4px;
+  }
+  
+  .ai-suggested {
+    margin-top: 24px;
+  }
+  
+  .ai-suggestions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  
+  .ai-suggestion-btn {
+    background-color: #f0f0f0;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    padding: 6px 10px;
+    cursor: pointer;
+    font-size: 13px;
+    color: #333;
+  }
+  
